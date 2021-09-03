@@ -1,10 +1,4 @@
 # MCfinal
----
-title: "MC project"
-author: "Ahmed Mostafa"
-date: "3/9/2021"
-output: html_document
----
 
 # Predict activity quality from activity monitors
 
